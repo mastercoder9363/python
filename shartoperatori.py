@@ -9,3 +9,6 @@ try:
         print("parol xato")
 except ValueError:
     print("siz string qiymat kiritdingiz")
+
+
+    
